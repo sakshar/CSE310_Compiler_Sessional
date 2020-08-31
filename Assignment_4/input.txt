@@ -1,0 +1,25 @@
+int main(){
+	int a[2],c,i,j ; float d;
+	c=-5;
+
+	while(c<=1){
+		c++;
+	}
+	println(c);
+
+	a[1]++;
+	a[1] = 2*3;
+
+	if(c>0)
+	{
+		a[0] = 2;
+	}
+	else
+	{
+		a[0] = 3;
+	}
+
+
+
+	return 0;
+}
